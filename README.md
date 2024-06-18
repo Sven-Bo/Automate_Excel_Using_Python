@@ -6,6 +6,19 @@ In this tutorial, I'll show you how to use xlwings to automate Excel by creating
 [![YouTube Video](https://img.youtube.com/vi/ee5ZQ49Mjik/0.jpg)](https://youtu.be/ee5ZQ49Mjik)
 
 
+
+## Check Out My Excel Add-ins
+I've developed some handy Excel add-ins that you might find useful:
+
+- **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - Table of contents with gallery view
+  - And much more!
+
+
 ## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
